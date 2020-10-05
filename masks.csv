@@ -1,0 +1,11 @@
+﻿Number,Shape,Colour,Pattern,person_for,Date_of_completion,ties,filter_pocket,time_elapsed,adjustable_straps,length,width_total,width_sides,ties_channel,production_stage,iteration
+1,Square,Pink/Beige,Fall Leaves,Darya,Aug-28-2020,elastic,yes,,yes,,,,,complete,1
+2,Square,Red/Black,Red and Black Plaid,David,Aug-30-2020,elastic,no,,yes,,,,,complete,
+3,Square,"White, Pink",Paris,Valentina,Aug-31-2020,elastic,no,,yes,,,,,complete,
+4,Square,Red/Black,Red and Black Plaid,Sanya,Sept-3-2020,cloth,no,,yes,,,,,complete,
+5,Square,Light Blue,Solid,Maxim,Sept-11-2020,elastic,no,1hr,yes,,,,,complete,
+6,Square,Yellow,Solid,Maxim,Sept-27-2020,elastic,no,1hr,yes,,,,no,complete,
+7,Square,Blue and yellow,Darker blue lemons,Darya,Oct-04-2020,elastic,no,,yes,19cm,19cm,,no,complete,
+8,square,blue and yellow,Darker blue lemons,,,elastic,no,,,,,,no,production_1,
+9,square,,,,,,,,,,,,,preproduction,
+10,square,,,,,,,,,,,,,preproduction,

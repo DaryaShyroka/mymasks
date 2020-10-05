@@ -1,0 +1,33 @@
+Iterations of square mask
+-------------------------
+
+1. Filter pocket made of two pieces of material, pipecleaner nose wire in a pocket, 
+   elastics have a channel. 
+
+   Problems identified: too thick with the two pieces of material, filter pocket never gets used.
+
+2. Changes: Removed filter pocket so mask is made from two pieces of material - outside and inside. 
+
+   Problems identified: pipecleaner was losing its shape due to its ability to move around inside the filter pocket.
+
+3. Changes: stitched pipecleaner down with the zigzag stitch across its entire length to fix it in place.
+
+   Problems identified: elastic channel was not very convenient, both for production process, and user experience.
+
+4. Changes: removed elastic channel - made 4 elastics instead, attached at the corners, and stiched the two pieces of material
+   together around the square, leaving a small gap at top where the mask could be turned inside out. That same gap was then used to
+   insert the pipecleaner.
+
+   Problems identified: gap at the sides of mask - air is able to get in and out, so mask is not pressed against face.
+
+5. Changes: made pleats deeper in order to shorten the sides of the mask, while keeping the length the same so that it could still extend
+   when being worn. Made the stich securing the pleats closer inside the mask. These two changes ensured that the mask fit more snug on 
+   the sides, and much less air was able to get in and out of the sides. The stich being closer to the inside allowed the sides to fold
+   in a way that curved easier, and the sides being narrow helped with that as well. Bottom of chin also feels more secure.
+
+Alternative versions at each iteration
+------------------------------------
+
+2. Made a one-layer more breathable version for my grandmother, per her request. No filter pocket or inside material, just the outside.
+
+   Made a cloth-ties version for Sanya, as per her request. Took a lot longer, because of difficulty making the cloth ties.
